@@ -1,5 +1,5 @@
 # chahna_8897441
-- # My First Repo
+- # My First Repository
 - Your name : Chahna 
 - Project Name : My first Repository
 - Links to website & social media : None yet
